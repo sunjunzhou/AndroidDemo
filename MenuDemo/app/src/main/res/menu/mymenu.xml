@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/item1"
+        android:icon="@android:drawable/sym_def_app_icon"
+        android:title="menuitem1" />
+    <item
+        android:id="@+id/item2"
+        android:icon="@android:drawable/sym_def_app_icon"
+        android:title="menuitem2" />
+    <item
+        android:id="@+id/item3"
+        android:icon="@android:drawable/sym_def_app_icon"
+        android:title="menuitem3" />
+    <item
+        android:id="@+id/item4"
+        android:icon="@android:drawable/sym_def_app_icon"
+        android:title="menuitem4" />
+</menu>
